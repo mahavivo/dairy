@@ -1,6 +1,7 @@
 @catecadell  3月20日
 
 >As countries start announcing mass stay-at-home orders, I have a new favorite #nCoV19 graph. Instead of measuring cases by days, I measured cases since a large-scale control measure. And it explains a lot.
+
 ![1](https://miro.medium.com/max/1400/1*pvOg4SSFDb7Fl_NP6Vo__Q.jpeg)
 
 @mahavivo
@@ -98,6 +99,7 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 45\. 在此可以初步用韩国的数据来复核这一假定。韩国动员令的开始日期是2月18日，当前新增死亡人数的峰值点应该落在3月16日附近，不过由于样本容量太小，这一统计结果还需要继续观察。
 
 46\. 首先来看几张图。（1）为韩国武冠肺炎感染人数每日新增统计；（2）为中国武冠肺炎每日新增死亡人数统计；（3）为2003年SARS事件统计；（4）为典型的正态分布图
+
 ![1](https://miro.medium.com/max/1358/1*_Wr08ZgBOmnuuDXO2uRlvg.png)
 ![2](https://miro.medium.com/max/1400/1*_tJ38QcfUHc7QoKFuYr9KQ.png)
 ![3](https://miro.medium.com/max/1400/1*FyYfRkiWHlzuuF5gWP1fqg.png)
@@ -106,6 +108,7 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 47\. 通过简单的观察我们可以合理猜测，在lockdown这种防控手段下，冠状病毒肺炎每日新增感染人数和死亡人数的曲线是一个正态分布。此一函数的顶点位置分别是我们在前面估算的第17天和第28天，只要有了正态分布前半段的部分数据，我们就有可能拟合构造出一个函数来预测此后的数据。
 
 48\. 仔细想了一下，还是用logistic函数来拟合做预测更适合，它本身就是用来描述限制条件下种群增长的，两端缓慢，在中间最陡峭，正态分布函数的中间位置趋于和缓，与实际状况不符。
+
 ![1](https://miro.medium.com/max/1280/1*emJLViKTloXt_7KcAB93Ug.png)
 ![2](https://miro.medium.com/max/1400/1*8hbMy2B9b79vNm2SDwZ-Lw.png)
 
