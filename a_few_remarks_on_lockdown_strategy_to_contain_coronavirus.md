@@ -241,3 +241,5 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 111\. 文字已经写得很长，打算暂时结束这个话题。主要讨论了三个问题，1）lockdown之后如何估算新增确诊高峰和死亡高峰，2）为什么要lockdown，何时lockdown？3）怎么根据预测出来的确诊高峰和死亡高峰预估总感染人数和总死亡人数。有了这个方法和模型，初步评估其他国家与地区（比如德国、英国、印尼、印度、埃及、巴西等）的瘟疫局势应该比较简单，类推即可，当然也要根据具体情势予以灵活调整。
 
 112\. 一个经验教训：武冠凶猛，宁可夸大，不可轻视，它总比你能想象的还要糟糕。
+
+原始撰写地址：https://twitter.com/mahavivo/status/1241227182069800961
