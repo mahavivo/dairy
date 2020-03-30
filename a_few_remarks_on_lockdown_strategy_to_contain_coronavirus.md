@@ -1,4 +1,4 @@
-## a few remarks on lockdown strategy to contain coronavirus（略议遏制武冠病毒的封锁策略）
+### a few remarks on lockdown strategy to contain coronavirus（略议遏制武冠病毒的封锁策略）
 
 @catecadell  3月20日
 
@@ -225,6 +225,7 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 102\.  当X等于35，也即4月3日的累计确诊人数为Y=254225，乘以2，美国武冠病毒总感染人数：508450 。
 
 103\. 在这里放一张多项式拟合的图，用八次多项式拟合前述的29天数据。可以用在线工具自己拟合，见：http://www.qinms.com/webapp/curvefit/cf.aspx ，数据外推预测是我用Python自己算的。
+![1](https://miro.medium.com/max/700/1*N5PIfbx8WPJhoNyZ59fXsQ.png)
 
 104\. 三种方法得到的最终数据各不相同，在30万到50万之间，我认为也许比较合适的估测数字是取中间值（或平均值），即40万左右。
 
