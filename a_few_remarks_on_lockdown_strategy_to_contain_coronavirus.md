@@ -1,3 +1,5 @@
+## a few remarks on lockdown strategy to contain coronavirus（略议遏制武冠病毒的封锁策略）
+
 @catecadell  3月20日
 
 >As countries start announcing mass stay-at-home orders, I have a new favorite #nCoV19 graph. Instead of measuring cases by days, I measured cases since a large-scale control measure. And it explains a lot.
