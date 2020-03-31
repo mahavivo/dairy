@@ -233,7 +233,7 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 
 106\. 总结一下，美国武冠肺炎的总感染人数将会达到40万左右（35-45万之间），导致10000人左右死亡（8000-12000），最终死亡率估计在2.7%上下（2.0–3.0%）。其新增确诊人数的高峰在4月3日前后，新增死亡人数的峰值在4月16日左右。
 
-107\. Overall, Wuhan Coronavirus would result in between 350,000 – 450,000 confirmed cases and between 8,000 –12,000 deaths (with 2–3% mortality rate, doubling the current CDR 1.3%) in US. Peak of confirmed cases is likely to reach on April 3, and peak of deaths is around April 16.
+107\. Overall, Wuhan Coronavirus would result in between 350,000 – 450,000 confirmed cases and between 8,000 –12,000 deaths (with 2–3% mortality rate, doubling the current CDR 1.3%) in the US. Peak of confirmed cases is likely to reach on April 3, and peak of deaths is around April 16.
 
 108\. 抱歉，前面在多项式拟合时说X取值35是不对的，应该是37，因为列表里最后一项79313是3月26日的数字（再去看wiki具体数字变了），它的序数是29，那么到4月3日，序数应该加8变成37。也就是说少算了两天数据，再乘以二，就是四天的数据，以现在一天新增2万的趋势，至少估算的数据少了8万。
 
