@@ -187,7 +187,7 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 84\. 1) Normal distribution curve fitting. The figure below is my own normal distribution curve fitted to the number of coronavirus confirmed cases in China, with an additional normal distribution curve fitted to the number of coronavirus deaths in China. Code available at: https://gist.github.com/mahavivo/646118d2c918a02202b4dba9c90ff608#gistcomment-3225530
 
 ![](https://miro.medium.com/max/1400/1*CuJ89WG4Gi312n_VspTT8w.png)
-![](https://miro.medium.com/max/1400/1*m_-QVVDwhAVs374TQUy8Ww.png)
+![](https://miro.medium.com/max/1400/1*TXPk0u8ADCSs88-0E0tftg.png)
 
 85\. Three positions are indicated in the figure: from left to right, the date of the lockdown, the position of the current situation in the United States relative to the entire normal distribution curve (8 days before the vertex), and the peak of the curve. We assume similar trends in the evolution of epidemics across countries in the case of lockdown, then if previous data for one country or region are known, it is possible to speculate by analogy about the state of change in another country.
 

@@ -186,7 +186,7 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 
 84\. 1）正态分布曲线拟合。下图为我自己绘制的正态分布曲线拟合中国coronavirus感染人数图，另附一张正态分布曲线拟合中国coronavirus死亡人数图。代码见：https://gist.github.com/mahavivo/646118d2c918a02202b4dba9c90ff608#gistcomment-3225530
 ![](https://miro.medium.com/max/1400/1*CuJ89WG4Gi312n_VspTT8w.png)
-![](https://miro.medium.com/max/1400/1*m_-QVVDwhAVs374TQUy8Ww.png)
+![](https://miro.medium.com/max/1400/1*TXPk0u8ADCSs88-0E0tftg.png)
 
 85\. 图中标示了三个位置：从左到右分别是lockdown日期，美国目前状况相对于整个正态分布曲线的位置（顶点8天前），曲线的顶点（peak）。我们假定在lockdown的情况下各个国家疫情演变趋势类似，那么如果已知先前某一国家或地区的数据，就可以类比推测另一个国家的变动状况。
 
