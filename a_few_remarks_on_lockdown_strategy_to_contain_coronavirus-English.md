@@ -100,7 +100,7 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 
 45\. This assumption can be checked tentatively here with data from Korea. The start date of the South Korean mobilization order is February 18, and the current peak point for new deaths should fall near March 16, although this statistic needs to be kept under observation due to the small sample size.
 
-46\. First, look at some of the graphs. (1) New daily number of confirmed cases of coronavirus in Korea; (2) New daily number of confirmed cases of coronavirus in China; (3) SARS events in 2003; (4) Typical normal distribution chart
+46\. First, look at some of the graphs. (1) New daily number of confirmed cases of coronavirus in Korea; (2) New daily number of deaths of coronavirus in China; (3) SARS events in 2003; (4) Typical normal distribution chart
 
 ![1](https://miro.medium.com/max/1358/1*_Wr08ZgBOmnuuDXO2uRlvg.png)
 ![2](https://miro.medium.com/max/1400/1*_tJ38QcfUHc7QoKFuYr9KQ.png)
