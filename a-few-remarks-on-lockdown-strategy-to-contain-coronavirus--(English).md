@@ -1,3 +1,5 @@
+### a few remarks on lockdown strategy to contain coronavirus
+
 @catecadell  2020-03-20
 
 > As countries start announcing mass stay-at-home orders, I have a new favorite #nCoV19 graph. Instead of measuring cases by days, I measured cases since a large-scale control measure. And it explains a lot.
