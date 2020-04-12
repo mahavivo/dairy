@@ -245,7 +245,7 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 
 112\. 一个经验教训：武冠凶猛，宁可夸大，不可轻视，它总比你能想象的还要糟糕。
 
-
+<br/>
 **附录与补遗**——（4月13日更新内容）：
 
 我原有的在lockdown干涉条件下的coronavirus预测模型目前相对来说效果不错，不过继续观察了一段时间，发现一些问题。
