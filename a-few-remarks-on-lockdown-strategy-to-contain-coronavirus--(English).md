@@ -249,6 +249,32 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 
 112\. A lesson learned: the coronavirus is fierce, better exaggerated than trivialized; it is always even worse than you can imagine.
 
+**Appendix and Addendum:**
+
+My original coronavirus prediction model under lockdown interference conditions works relatively well so far, but after continuing to observe it for a while, some problems were found.
+
+(1) It is essentially an ideal model that derives from the extremity and effectiveness of China's and Korea's means of controlling the plague (in terms of results alone, such as the poor secondary consequences of some Chinese policies that do not unfold), which other countries are likely to be unable to learn and keep up.
+
+(2) The first one is the universal testing of China and Korea. Wuhan early on there is a serious problem of missed detection, but then the detection capacity to go up, and after the change of mindset of prevention and control, the country is full of radical detection policy. Not only do you go out and check your temperature, but you also get a reward for reporting someone with a fever, which is an aggressive way to effectively screen out people with the coronavirus.
+
+(3) Timely detection.In some countries and regions, conditions do not allow for aggressive testing or even normal testing, and only a certain number of serious cases can be tested daily, resulting in a backlog of patients. After reaching the apex, the stock is digested for a long time and the rate of confirmed cases remains high until the backlog is digested and the number of new confirmed cases truly reflects the recent new infections/symptomatic persons.
+
+(4) Strict isolation.I don't have any specific research on Korea, but in China, not only are people with minor illnesses isolated, but even people with asymptomatic infections, close contacts and people in key epidemic areas are isolated.  In Italy, however, 2/3 of mild or asymptomatic patients are home-isolated, which is more dangerous, and the virus is likely to continue to spread among family members, as reflected in the confirmed cases and the death curve, which is the delay in declining after reaching the apex.
+
+(5) Lockdown is not synchronized. Predicting the plague situation in the U.S. is a little more difficult because from state to state and county to county policy differences, you can think of it as 50+ countries combined. The states that acted early have eased off, and those that delayed may have just begun to accelerate, which will likewise have slowed the downward curve. The United States also has the aforementioned 2, 3, and 4 problems, which further complicate the situation.
+
+(6) In an ideal model prediction, the number of new infections and deaths per day is a normal distribution curve, but in the presence of a large number of practical implementation deficiencies, it will form a long sustained plateau from the initial apex of the curve, the duration of which is currently unknown or difficult to predict.
+
+(7) If another curve is drawn, the curve will change from a normal distribution to a Table Mountain in Cape Town. 1. A fitted curve for coronavirus deaths in China; 2. Table Mountain in Cape Town; 3. New confirmed cases and deaths in Italy; 4. New confirmed cases and deaths in Spain.
+![1](https://miro.medium.com/max/2000/1*fiPF4Fr2-G8mksHZk3RaaA.png)
+![2](https://miro.medium.com/max/1400/1*RHkp0bVnTXg-WGu3tWtLlw.jpeg)
+![3](https://miro.medium.com/max/1400/1*au40RrWWZ8QGBG2TzwyLMA.jpeg)
+![4](https://miro.medium.com/max/1400/1*2kkiPcwDQ8pUFw2EtJ1VEg.jpeg)
+
+(8) With all these mistakes, does my model and method still work? Notice the last line of the article - "It's always worse than you can imagine." The reason I say this is because in the process of writing the article I discovered that every time I update, I have to adjust the forecast data upwards.So the data I've given, which is currently quantifiable based on estimates, is the best-case scenario. what would actually happen, please add some imagination to that.
+
+(9) Add some imagination because you can't predict and quantify just how slow, incompetent and stupid the responses of various governments will be, how many more people will get sick and die for nothing.
+
 **reference**:
 https://twitter.com/mahavivo/status/1241227182069800961
 https://github.com/mahavivo/dairy/blob/master/a_few_remarks_on_lockdown_strategy_to_contain_coronavirus.md
