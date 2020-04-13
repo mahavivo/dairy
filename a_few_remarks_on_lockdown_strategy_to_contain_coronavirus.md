@@ -249,6 +249,8 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 
 **附录与补遗**——（4月13日更新内容）：
 
+<br/>
+
 我原有的在lockdown干涉条件下的coronavirus预测模型目前相对来说效果不错，不过继续观察了一段时间，发现一些问题。
 
 1）它实质上是一个理想模型，这种理想性来自于中国、韩国控制瘟疫的手段的极端性和有效性（单就结果而言，像中国一些政策的恶劣次生后果就不展开了），其他国家很可能学不了，跟不上。
