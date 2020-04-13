@@ -249,6 +249,8 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 
 112\. A lesson learned: the coronavirus is fierce, better exaggerated than trivialized; it is always even worse than you can imagine.
 
+<br/>
+
 **Appendix and Addendum:**(2020-04-12 update)
 
 My original coronavirus prediction model under lockdown interference conditions works relatively well so far, but after continuing to observe it for a while, some problems were found.
