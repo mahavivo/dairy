@@ -303,6 +303,6 @@ very interesting graph. I would like to make a few remarks about it. Given you p
 
 22）对这些高台期超过10天的状况，如果有必要的话，可以加大这个系数到15、20等，但至此也只能走一步看一步，无法做较长期的预测。
 
-23）假想的worst-case scenario是不是真的就是最坏的可能，也不一定，因为人类可以更愚蠢更无能，比如在这里我并没有讨论美国各州轮番上阵，你方唱罢我登台的情景。
+23）假想的worst-case scenario是不是真的就是最坏的可能，也不一定，因为人类可以更无能更愚蠢，比如在这里我并没有讨论美国各州轮番上阵，你方唱罢我登台的情景。
 
 原始撰写地址：https://twitter.com/mahavivo/status/1241227182069800961
